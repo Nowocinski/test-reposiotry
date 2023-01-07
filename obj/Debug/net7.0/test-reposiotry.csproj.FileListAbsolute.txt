@@ -1,0 +1,15 @@
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\bin\Debug\net7.0\test-reposiotry.exe
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\bin\Debug\net7.0\test-reposiotry.deps.json
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\bin\Debug\net7.0\test-reposiotry.runtimeconfig.json
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\bin\Debug\net7.0\test-reposiotry.dll
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\bin\Debug\net7.0\test-reposiotry.pdb
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.csproj.AssemblyReference.cache
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.AssemblyInfoInputs.cache
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.AssemblyInfo.cs
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.csproj.CoreCompileInputs.cache
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.dll
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\refint\test-reposiotry.dll
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.pdb
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\test-reposiotry.genruntimeconfig.cache
+C:\Nauka\dotnet\test-reposiotry\test-reposiotry\obj\Debug\net7.0\ref\test-reposiotry.dll
